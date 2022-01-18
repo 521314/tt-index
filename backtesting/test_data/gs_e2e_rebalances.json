@@ -1,0 +1,486 @@
+{
+    "2021-01-08": {
+        "composition": [
+            {
+                "component": "Aave",
+                "id": "aave",
+                "weight_pre": 0.03831393612912248,
+                "weight_post": 0.04241433354013157,
+                "rebalance": 0.0041003974110090866,
+                "value": 5.572956848858261
+            },
+            {
+                "component": "Axie Infinity",
+                "id": "axie-infinity",
+                "weight_pre": 0.02955990915774902,
+                "weight_post": 0,
+                "rebalance": -0.02955990915774902,
+                "value": 0.0
+            },
+            {
+                "component": "Balancer",
+                "id": "balancer",
+                "weight_pre": 0.04033709567737491,
+                "weight_post": 0.04170922313890757,
+                "rebalance": 0.00137212746153266,
+                "value": 5.480310106313445
+            },
+            {
+                "component": "Bancor",
+                "id": "bancor",
+                "weight_pre": 0.03249089786920438,
+                "weight_post": 0.036672932454311274,
+                "rebalance": 0.004182034585106895,
+                "value": 4.8185755387525635
+            },
+            {
+                "component": "Compound",
+                "id": "compound",
+                "weight_pre": 0.12794098189897338,
+                "weight_post": 0.1428080642616107,
+                "rebalance": 0.014867082362637313,
+                "value": 18.76401474152375
+            },
+            {
+                "component": "Ethereum",
+                "id": "ethereum",
+                "weight_pre": 0.041734882754512904,
+                "weight_post": 0.03560333837891937,
+                "rebalance": -0.006131544375593531,
+                "value": 4.678038104106478
+            },
+            {
+                "component": "Filecoin",
+                "id": "filecoin",
+                "weight_pre": 0.0427162532457302,
+                "weight_post": 0.06748133085254328,
+                "rebalance": 0.024765077606813075,
+                "value": 8.866590927072355
+            },
+            {
+                "component": "Kyber",
+                "id": "kyber",
+                "weight_pre": 0.10664761023642708,
+                "weight_post": 0.0962084434027014,
+                "rebalance": -0.010439166833725672,
+                "value": 12.64113941745114
+            },
+            {
+                "component": "MakerDAO",
+                "id": "makerdao",
+                "weight_pre": 0.10919272534887631,
+                "weight_post": 0.059192725348876304,
+                "rebalance": -0.05,
+                "value": 7.777524167000807
+            },
+            {
+                "component": "Perpetual Protocol",
+                "id": "perpetual-protocol",
+                "weight_pre": 0,
+                "weight_post": 0.033483476893142065,
+                "rebalance": 0.033483476893142065,
+                "value": 4.399502628012873
+            },
+            {
+                "component": "Ren",
+                "id": "ren",
+                "weight_pre": 0.04222515033002406,
+                "weight_post": 0.05911725655175676,
+                "rebalance": 0.0168921062217327,
+                "value": 7.767608076974672
+            },
+            {
+                "component": "SushiSwap",
+                "id": "sushiswap",
+                "weight_pre": 0.21001821069307028,
+                "weight_post": 0.19875597737862172,
+                "rebalance": -0.011262233314448561,
+                "value": 26.115192505280408
+            },
+            {
+                "component": "Synthetix",
+                "id": "synthetix",
+                "weight_pre": 0.04269526292108924,
+                "weight_post": 0.039042152334923565,
+                "rebalance": -0.0036531105861656726,
+                "value": 5.129875023102977
+            },
+            {
+                "component": "Uniswap",
+                "id": "uniswap",
+                "weight_pre": 0.13612708373784568,
+                "weight_post": 0.14751074546355436,
+                "rebalance": 0.011383661725708677,
+                "value": 19.381915277142717
+            }
+        ],
+        "value_total": 131.39324336159243,
+        "weight_post_total": 1.0,
+        "rebalance_abs_avg": 0.015863709181097495
+    },
+    "2021-01-15": {
+        "composition": [
+            {
+                "component": "Aave",
+                "id": "aave",
+                "weight_pre": 0.04468609155876688,
+                "weight_post": 0.041117441447020786,
+                "rebalance": -0.003568650111746091,
+                "value": 6.536844134782878
+            },
+            {
+                "component": "Balancer",
+                "id": "balancer",
+                "weight_pre": 0.03291236598138168,
+                "weight_post": 0.05151887154651875,
+                "rebalance": 0.018606505565137064,
+                "value": 8.190461795474745
+            },
+            {
+                "component": "Bancor",
+                "id": "bancor",
+                "weight_pre": 0.03150285019823577,
+                "weight_post": 0.04067447671248583,
+                "rebalance": 0.009171626514250061,
+                "value": 6.466421673536318
+            },
+            {
+                "component": "Compound",
+                "id": "compound",
+                "weight_pre": 0.1443611086768771,
+                "weight_post": 0.13389820791087068,
+                "rebalance": -0.010462900766006422,
+                "value": 21.28711525418934
+            },
+            {
+                "component": "Ethereum",
+                "id": "ethereum",
+                "weight_pre": 0.029124835166883196,
+                "weight_post": 0.042268807992342866,
+                "rebalance": 0.01314397282545967,
+                "value": 6.719888200364424
+            },
+            {
+                "component": "Filecoin",
+                "id": "filecoin",
+                "weight_pre": 0.05440077429179099,
+                "weight_post": 0.060538552318906376,
+                "rebalance": 0.006137778027115383,
+                "value": 9.624409173512976
+            },
+            {
+                "component": "Kyber",
+                "id": "kyber",
+                "weight_pre": 0.07965688173455762,
+                "weight_post": 0.11177718411315214,
+                "rebalance": 0.03212030237859452,
+                "value": 17.770318498879895
+            },
+            {
+                "component": "MakerDAO",
+                "id": "makerdao",
+                "weight_pre": 0.0725652727298308,
+                "weight_post": 0.03049167457746613,
+                "rebalance": -0.042073598152364666,
+                "value": 4.847561450977869
+            },
+            {
+                "component": "Perpetual Protocol",
+                "id": "perpetual-protocol",
+                "weight_pre": 0.04352955943056241,
+                "weight_post": 0.03675869384382372,
+                "rebalance": -0.006770865586738686,
+                "value": 5.843891151760581
+            },
+            {
+                "component": "Ren",
+                "id": "ren",
+                "weight_pre": 0.06344115194893533,
+                "weight_post": 0.0499242515769272,
+                "rebalance": -0.013516900372008131,
+                "value": 7.936949372799734
+            },
+            {
+                "component": "SushiSwap",
+                "id": "sushiswap",
+                "weight_pre": 0.23061198432256236,
+                "weight_post": 0.19999306310010295,
+                "rebalance": -0.030618921222459405,
+                "value": 31.794864551765382
+            },
+            {
+                "component": "Synthetix",
+                "id": "synthetix",
+                "weight_pre": 0.040621804260369036,
+                "weight_post": 0.03815104702120817,
+                "rebalance": -0.0024707572391608687,
+                "value": 6.065247232801253
+            },
+            {
+                "component": "Uniswap",
+                "id": "uniswap",
+                "weight_pre": 0.132585319699247,
+                "weight_post": 0.16288772783917424,
+                "rebalance": 0.03030240813992724,
+                "value": 25.895864404052436
+            }
+        ],
+        "value_total": 158.97983689489783,
+        "weight_post_total": 0.9999999999999999,
+        "rebalance_abs_avg": 0.016843475915459098
+    },
+    "2021-01-22": {
+        "composition": [
+            {
+                "component": "1inch",
+                "id": "1inch",
+                "weight_pre": 0,
+                "weight_post": 0.04450807753862772,
+                "rebalance": 0.04450807753862772,
+                "value": 7.444097164392781
+            },
+            {
+                "component": "Aave",
+                "id": "aave",
+                "weight_pre": 0.04263331489027388,
+                "weight_post": 0,
+                "rebalance": -0.04263331489027388,
+                "value": 0.0
+            },
+            {
+                "component": "Balancer",
+                "id": "balancer",
+                "weight_pre": 0.05026818619446682,
+                "weight_post": 0.051508182835436726,
+                "rebalance": 0.0012399966409699092,
+                "value": 8.614883836659226
+            },
+            {
+                "component": "Bancor",
+                "id": "bancor",
+                "weight_pre": 0.03508090736262635,
+                "weight_post": 0.04338773800267646,
+                "rebalance": 0.008306830640050111,
+                "value": 7.256717326306227
+            },
+            {
+                "component": "Compound",
+                "id": "compound",
+                "weight_pre": 0.10634045982923326,
+                "weight_post": 0.15634045982923325,
+                "rebalance": 0.04999999999999999,
+                "value": 26.14836762348603
+            },
+            {
+                "component": "Ethereum",
+                "id": "ethereum",
+                "weight_pre": 0.037074437614539935,
+                "weight_post": 0.04610737002883014,
+                "rebalance": 0.009032932414290207,
+                "value": 7.711583188272788
+            },
+            {
+                "component": "Filecoin",
+                "id": "filecoin",
+                "weight_pre": 0.0566413920672256,
+                "weight_post": 0.054278507411309906,
+                "rebalance": -0.0023628846559156924,
+                "value": 9.078228165602825
+            },
+            {
+                "component": "Kyber",
+                "id": "kyber",
+                "weight_pre": 0.12992470186585664,
+                "weight_post": 0.09216079036257087,
+                "rebalance": -0.03776391150328577,
+                "value": 15.414143143136169
+            },
+            {
+                "component": "MakerDAO",
+                "id": "makerdao",
+                "weight_pre": 0.021265926408456773,
+                "weight_post": 0,
+                "rebalance": -0.021265926408456773,
+                "value": 0.0
+            },
+            {
+                "component": "Nexus Mutual",
+                "id": "nexus-mutual",
+                "weight_pre": 0,
+                "weight_post": 0.050000000000000024,
+                "rebalance": 0.050000000000000024,
+                "value": 8.362636150631527
+            },
+            {
+                "component": "Perpetual Protocol",
+                "id": "perpetual-protocol",
+                "weight_pre": 0.06472486904950031,
+                "weight_post": 0.030779697449956747,
+                "rebalance": -0.033945171599543564,
+                "value": 5.147988212010184
+            },
+            {
+                "component": "Ren",
+                "id": "ren",
+                "weight_pre": 0.05870380186884428,
+                "weight_post": 0.042863443899212136,
+                "rebalance": -0.015840357969632145,
+                "value": 7.169027709842353
+            },
+            {
+                "component": "SushiSwap",
+                "id": "sushiswap",
+                "weight_pre": 0.1937064787873143,
+                "weight_post": 0.2034313750060773,
+                "rebalance": 0.00972489621876299,
+                "value": 34.024451415970006
+            },
+            {
+                "component": "Synthetix",
+                "id": "synthetix",
+                "weight_pre": 0.030496789116345693,
+                "weight_post": 0.04313618603034889,
+                "rebalance": 0.012639396914003197,
+                "value": 7.214644573955243
+            },
+            {
+                "component": "Uniswap",
+                "id": "uniswap",
+                "weight_pre": 0.17313873494531598,
+                "weight_post": 0.1414981716057197,
+                "rebalance": -0.03164056333959628,
+                "value": 23.66595450236509
+            }
+        ],
+        "value_total": 167.25272301263044,
+        "weight_post_total": 1.0,
+        "rebalance_abs_avg": 0.024726950715560546
+    },
+    "2021-01-29": {
+        "composition": [
+            {
+                "component": "1inch",
+                "id": "1inch",
+                "weight_pre": 0.05716962649087968,
+                "weight_post": 0.03422831355073846,
+                "rebalance": -0.02294131294014122,
+                "value": 7.91544804400218
+            },
+            {
+                "component": "Balancer",
+                "id": "balancer",
+                "weight_pre": 0.04713464938874483,
+                "weight_post": 0.045856727206623364,
+                "rebalance": -0.0012779221821214645,
+                "value": 10.604569843441132
+            },
+            {
+                "component": "Bancor",
+                "id": "bancor",
+                "weight_pre": 0.04045201498275414,
+                "weight_post": 0.039303341141175986,
+                "rebalance": -0.0011486738415781572,
+                "value": 9.0890704941541
+            },
+            {
+                "component": "Compound",
+                "id": "compound",
+                "weight_pre": 0.1612965791866626,
+                "weight_post": 0.12250888967527537,
+                "rebalance": -0.038787689511387224,
+                "value": 28.330719528894708
+            },
+            {
+                "component": "Ethereum",
+                "id": "ethereum",
+                "weight_pre": 0.039460142930129935,
+                "weight_post": 0.044254949863153085,
+                "rebalance": 0.0047948069330231505,
+                "value": 10.234151788180991
+            },
+            {
+                "component": "Filecoin",
+                "id": "filecoin",
+                "weight_pre": 0.040414650039262846,
+                "weight_post": 0.0506981506125373,
+                "rebalance": 0.010283500573274457,
+                "value": 11.724170298535743
+            },
+            {
+                "component": "Kyber",
+                "id": "kyber",
+                "weight_pre": 0.06482808595234109,
+                "weight_post": 0.10315338851246086,
+                "rebalance": 0.038325302560119776,
+                "value": 23.854674759912022
+            },
+            {
+                "component": "MakerDAO",
+                "id": "makerdao",
+                "weight_pre": 0,
+                "weight_post": 0.03867978927186663,
+                "rebalance": 0.03867978927186663,
+                "value": 8.944871382008474
+            },
+            {
+                "component": "Nexus Mutual",
+                "id": "nexus-mutual",
+                "weight_pre": 0.04286061206569521,
+                "weight_post": 0.09286061206569529,
+                "rebalance": 0.05000000000000008,
+                "value": 21.474424939185912
+            },
+            {
+                "component": "Perpetual Protocol",
+                "id": "perpetual-protocol",
+                "weight_pre": 0.02808749801617222,
+                "weight_post": 0,
+                "rebalance": -0.02808749801617222,
+                "value": 0.0
+            },
+            {
+                "component": "Rarible",
+                "id": "rarible",
+                "weight_pre": 0,
+                "weight_post": 0.03843623843992963,
+                "rebalance": 0.03843623843992963,
+                "value": 8.88854918099167
+            },
+            {
+                "component": "Ren",
+                "id": "ren",
+                "weight_pre": 0.030630200646086014,
+                "weight_post": 0.04528052882980855,
+                "rebalance": 0.014650328183722534,
+                "value": 10.471321434694518
+            },
+            {
+                "component": "SushiSwap",
+                "id": "sushiswap",
+                "weight_pre": 0.21488851309335066,
+                "weight_post": 0.20497429465259687,
+                "rebalance": -0.009914218440753797,
+                "value": 47.40120711099483
+            },
+            {
+                "component": "Synthetix",
+                "id": "synthetix",
+                "weight_pre": 0.043012651029782085,
+                "weight_post": 0,
+                "rebalance": -0.043012651029782085,
+                "value": 0.0
+            },
+            {
+                "component": "Uniswap",
+                "id": "uniswap",
+                "weight_pre": 0.18976477617813867,
+                "weight_post": 0.13976477617813862,
+                "rebalance": -0.050000000000000044,
+                "value": 32.32121917370311
+            }
+        ],
+        "value_total": 231.25439797869944,
+        "weight_post_total": 1.0,
+        "rebalance_abs_avg": 0.026022662128258163
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "2021-01-03": {
+        "composition": [
+            {
+                "component": "gouhl",
+                "id": "gouhl",
+                "weight_pre": 0.7835927826593698,
+                "weight_post": 0,
+                "rebalance": -0.7835927826593698,
+                "value": 0.0
+            },
+            {
+                "component": "gygnm",
+                "id": "gygnm",
+                "weight_pre": 0,
+                "weight_post": 0.02447429266690051,
+                "rebalance": 0.02447429266690051,
+                "value": 1.6243187381315778
+            },
+            {
+                "component": "uexqa",
+                "id": "uexqa",
+                "weight_pre": 0,
+                "weight_post": 0.6135773827700712,
+                "rebalance": 0.6135773827700712,
+                "value": 40.72212642431296
+            },
+            {
+                "component": "ugntq",
+                "id": "ugntq",
+                "weight_pre": 0.2077689477602835,
+                "weight_post": 0,
+                "rebalance": -0.2077689477602835,
+                "value": 0.0
+            },
+            {
+                "component": "whblf",
+                "id": "whblf",
+                "weight_pre": 0.00863826958034674,
+                "weight_post": 0,
+                "rebalance": -0.00863826958034674,
+                "value": 0.0
+            },
+            {
+                "component": "ziyun",
+                "id": "ziyun",
+                "weight_pre": 0,
+                "weight_post": 0.36194832456302833,
+                "rebalance": 0.36194832456302833,
+                "value": 24.021917765908317
+            }
+        ],
+        "value_total": 66.36836292835285,
+        "weight_post_total": 1.0,
+        "rebalance_abs_avg": 0.3333333333333333
+    }
+}
