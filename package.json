@@ -1,0 +1,20 @@
+{
+  "name": "tt-index-monorepo",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Tokenterminal index monorepo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/token-terminal/tt-index-monorepo.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/token-terminal/tt-index-monorepo/issues"
+  },
+  "homepage": "https://github.com/token-terminal/tt-index-monorepo#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^13.1.0",
+    "@commitlint/config-conventional": "^13.1.0",
+    "husky": "^7.0.2"
+  }
+}
