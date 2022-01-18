@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tokenterminal.com/?utm_source=github-index-repo">
-    <img src="https://github.com/token-terminal/tt-analytics/raw/main/admin-frontend/public/logo.png" height="128">
+    <img src="frontend/src/utils/logo/logo.png" height="128">
     <h2 align="center">Token Terminal</h2>
   </a>
   <a href="https://index.tokenterminal.com/?utm_source=github-index-repo">
