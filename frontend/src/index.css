@@ -1,0 +1,40 @@
+@font-face {
+  font-family: "FKGrotesk";
+  src: local("FKGrotesk"),
+    url(./fonts/FKGrotesk/woff/FKGrotesk-Regular.woff) format("woff");
+  font-display: block;
+}
+
+@font-face {
+  font-family: "FKGrotesk-SemiMono";
+  src: local("FKGrotesk"),
+    url(./fonts/FKGrotesk/woff/FKGroteskSemiMono-Regular.woff) format("woff");
+  font-display: block;
+}
+
+@font-face {
+  font-family: "FKGrotesk-Medium";
+  src: local("FKGrotesk"),
+    url(./fonts/FKGrotesk/woff/FKGrotesk-Medium.woff) format("woff");
+  font-display: block;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+  font-family: FKGrotesk, sans-serif;
+  cursor: default;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+a {
+  text-decoration: none;
+}
